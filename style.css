@@ -1,0 +1,14 @@
+body {
+    font-family: monospace;
+    font-size: 16px;
+    max-width: 67%;
+    margin: auto;
+}
+
+h2 {
+    margin-top: 2em;
+}
+
+h3 {
+    margin-top: 1em;
+}
