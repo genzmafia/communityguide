@@ -2,6 +2,8 @@
 
 Welcome! Here you'll find suggestions on how to get started on a variety of topics, mostly for free, as well as a list of people on the Discord to reach out to.
 
+Repo for contributions [here](https://github.com/ahaym/community-guide).
+
 ## AI/ML/Deep Learning
 
 ### Deep Learning
