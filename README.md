@@ -1,4 +1,4 @@
-# GZM community guide repo
+# GZM unofficial community guide repo
 Guide on various topics for the GZM discord server. Contributions welcome.
 
 ## Structure
