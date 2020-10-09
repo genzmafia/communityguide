@@ -4,6 +4,8 @@ Guide on various topics for the GZM discord server. Contributions welcome.
 ## Structure
 tl;dr: Edit `guide.md` and PR. Contbuild will update the web page automatically.
 
+You can edit without cloning by clicking `guide.md` above, opening the web editor, then sending a PR.
+
 To see the result locally, run either `make` or  `node generate.js`. View `index.html` for the result. While hacky, it's small, simple, and there are no dependencies other than `node` and the included `showdown`.
 
 - `guide.md`: markdown for the actual guide.
