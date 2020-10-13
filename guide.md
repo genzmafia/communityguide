@@ -4,7 +4,7 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 
 Have knowledge of some topic (non-technical included) you'd like to share? Learn something from others on the server that could be useful to write down? Add it!
 
-Repo for contributions [here](https://github.com/genzmafia/community-guide).
+Repo for contributions [here](https://github.com/genzmafia/communityguide).
 
 ## Web Development
 
