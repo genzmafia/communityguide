@@ -7,6 +7,7 @@ const options = {
     tables: true,
     ghCompatibleHeaderId: true,
     requireSpaceBeforeHeadingText: true,
+    simplifiedAutoLink: true,
 }
 const converter = new showdown.Converter(options)
 
