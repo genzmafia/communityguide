@@ -29,7 +29,7 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 - Take this guide with a grain of salt on what's said here but every once in a while there is a constant trend about a person and this proves to be useful in that context.
 - We suggest to look at posts with detailed and constructive feedback.
 
-[Founder to CEO Guide] (https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
+[Founder to CEO Guide](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
 - Tactical guide to transition from Founder (experimentation, pre-PMF phase) to CEO (scaling/growth, post-PMF phase)
 
 ## Marketing
