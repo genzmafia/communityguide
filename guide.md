@@ -16,7 +16,7 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 3. On the right side if there is an 'Install an App' popup, click 'x' on the top right side to make it go away
 4. Fill out the details of your product/project
 5. **To enforce accountability** the Airtable is configured to update name of the Editor that updated the Airtable with a timestamp reflecting the latest change at the end of the row
-6. Verify how the public view looks here: https://airtable.com/shrpyCBZF14uUUDkz
+6. [Verify the public view here](https://airtable.com/shrpyCBZF14uUUDkz)
 
 ## Founder Resources
 
