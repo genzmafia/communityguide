@@ -4,17 +4,17 @@ name: CI
 # events but only for the main branch
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2.3.1 
+        uses: actions/checkout@v2.3.1
 
-      - name: Build HTML 
+      - name: Build HTML
         run: |
           make
 
