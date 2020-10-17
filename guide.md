@@ -42,6 +42,8 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 
 [Free code camp](https://www.freecodecamp.org/learn) is a pretty comprehensive resource for learning web development. It's intended to be started from zero and has enough material to get to an entry-level of expertise in full-stack development using popular frameworks like React, Express, and Bootstrap.
 
+[Net Ninja](https://www.youtube.com/c/TheNetNinja/featured) very useful MERN stack tutorials. Also has videos on Flutter, Firebase, Vue, Python, etc.
+
 ## Design Resources
 
 This is a collection of resources. To suggest more, DM @pranavsf or @hm in the GZM Discord.
