@@ -103,6 +103,9 @@ As recommended by Guillaume Verdon!
 - https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217
 - https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176
 
+## Climate Change Resources
+Presentation on Green Energy Market Cap by Dani Grant of Union State Ventures:
+- https://docs.google.com/presentation/d/1fufw-2FYXBz8bJa3U0hITXrdxXgYvitgjp3EgfLRaCM/edit
 
 ## Housekeeping
 
