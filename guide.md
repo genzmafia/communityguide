@@ -98,6 +98,11 @@ A free introduction to machine learning is Andrew Ng's course on [Coursera](http
 ### Cryptographic Security
 [Cryptopals](https://cryptopals.com/) is a set of programming challenges centered around real-world cryptographic attacks. While they require programming ability, the math is not very high-level, at least for the first few challenges, and covers fundamental concepts such as RSA, key exchange, and hash collisions.
 
+## Quantum Computing
+As recommended by Guillaume Verdon! 
+- https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217
+- https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176
+
 
 ## Housekeeping
 
