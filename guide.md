@@ -35,11 +35,13 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 ## Marketing
 
 ### When to launch on Product Hunt
-- https://paper.dropbox.com/doc/The-Ultimate-Guide-to-Statistics-of-Projects-at-Product-Hunt-SyveZ0MKznUytmusHmfWR
-  - Optimizing for upvotes and engagement
+- [Optimizing for upvotes and engagement](https://paper.dropbox.com/doc/The-Ultimate-Guide-to-Statistics-of-Projects-at-Product-Hunt-SyveZ0MKznUytmusHmfWR)
   
 ### Marketing Slogans
 - [Copy.AI](https://www.copy.ai/) Launched recently, it crafts your marketing slogans/pitch to your audience powered by Open AI's GPT-3
+
+### Crafting your message concisely 
+- [HemingWayApp](http://www.hemingwayapp.com/)
 
 ## Web Development
 
