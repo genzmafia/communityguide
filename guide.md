@@ -34,7 +34,12 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 
 ## Marketing
 
- [Copy.AI](https://www.copy.ai/) Launched recently, it crafts your marketing slogans/pitch to your audience powered by Open AI's GPT-3
+### When to launch on Product Hunt
+- https://paper.dropbox.com/doc/The-Ultimate-Guide-to-Statistics-of-Projects-at-Product-Hunt-SyveZ0MKznUytmusHmfWR
+  - Optimizing for upvotes and engagement
+  
+### Marketing Slogans
+- [Copy.AI](https://www.copy.ai/) Launched recently, it crafts your marketing slogans/pitch to your audience powered by Open AI's GPT-3
 
 ## Web Development
 
