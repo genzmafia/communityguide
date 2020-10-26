@@ -24,7 +24,7 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 - This resource is a collection of guides put together by [Steve Schlafman](https://schlaf.me/) and [Rishi Tripathy](http://twitter.com/rishi_tripathy_) as an online center of gravity for actionable and practical advice. A lot of these are public resources scattered all over the VC world and this Notion page just brings it all together.
 - For example: checkout the 'self' section to find useful advice on how you can grow as your startup grows.
 
-[Crash course in raising your 1st round](!https://justjake.substack.com/p/crash-course-in-capital) by [Jake](!https://twitter.com/JustJake)
+[Crash course in raising your 1st round](https://justjake.substack.com/p/crash-course-in-capital) by [Jake](https://twitter.com/JustJake)
 
 [Glassdoor for VCs](vcguide.co)
 - We generally need some form of accountability for everyone. US gov't is built on a system of checks and balances and so should be entrepreneurship and capitalism in the tech industry.
