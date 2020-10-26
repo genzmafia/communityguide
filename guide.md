@@ -54,6 +54,13 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 
 [Net Ninja](https://www.youtube.com/c/TheNetNinja/featured) very useful MERN stack tutorials. Also has videos on Flutter, Firebase, Vue, Python, etc.
 
+### Landing Page templates for startups
+  - https://cruip.com/
+  - https://treact.owaiskhan.me/
+  - https://mailchimp.com/
+  - https://www.wix.com/
+  - https://bubble.io/
+
 ## Design Resources
 
 This is a collection of resources. To suggest more, DM @pranavsf or @hm in the GZM Discord.
