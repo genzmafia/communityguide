@@ -38,6 +38,7 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 - [Optimizing for upvotes and engagement](https://paper.dropbox.com/doc/The-Ultimate-Guide-to-Statistics-of-Projects-at-Product-Hunt-SyveZ0MKznUytmusHmfWR)
   
 ### Marketing Slogans
+- [copysmith.ai](https://www.copysmith.ai) Launched recently by GZM-ers @anwang427, @jasminewang#1066, @longtran, it has everything that copy.ai but.. better :) You have the ability to generate all sorts of content with GPT-3, as well as edit and manage your content. More features coming soon - message any of them on Discord for feature/bug requests :) access/discount code "genzmafia" for 20% off for 6 months :) 
 - [Copy.AI](https://www.copy.ai/) Launched recently, it crafts your marketing slogans/pitch to your audience powered by Open AI's GPT-3
 
 ### Crafting your message concisely 
