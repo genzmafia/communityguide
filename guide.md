@@ -34,6 +34,13 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 [Founder to CEO Guide](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
 - Tactical guide to transition from Founder (experimentation, pre-PMF phase) to CEO (scaling/growth, post-PMF phase)
 
+Facebook Mark June 2005 interview
+- [Part 1](https://www.youtube.com/watch?v=--APdD6vejI)
+- [Part 2](https://www.youtube.com/watch?v=mRdOOoIyHZk)
+- [Part 3](https://www.youtube.com/watch?v=O8IWl4KcYW4)
+- [Part 4](https://www.youtube.com/watch?v=_XBWFqrooAg)
+- [Part 5](https://www.youtube.com/watch?v=e-LaHTt8ifg)
+
 ## Marketing
 
 ### When to launch on Product Hunt
