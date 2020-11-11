@@ -26,6 +26,9 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 
 [Crash course in raising your 1st round](https://justjake.substack.com/p/crash-course-in-capital) by [Jake](https://twitter.com/JustJake)
 
+[VC Funding Styles](https://www.notion.so/873d03664a4a486598e43a2c3f924e1d?v=e916ff5f5f304c07839654dcd1c4696f)
+- Look at the check size, type of fund, and notes on VCs.
+
 [Glassdoor for VCs](vcguide.co)
 - We generally need some form of accountability for everyone. US gov't is built on a system of checks and balances and so should be entrepreneurship and capitalism in the tech industry.
 - Take this guide with a grain of salt on what's said here but every once in a while there is a constant trend about a person and this proves to be useful in that context.
