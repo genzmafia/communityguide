@@ -24,6 +24,9 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 - This resource is a collection of guides put together by [Steve Schlafman](https://schlaf.me/) and [Rishi Tripathy](http://twitter.com/rishi_tripathy_) as an online center of gravity for actionable and practical advice. A lot of these are public resources scattered all over the VC world and this Notion page just brings it all together.
 - For example: checkout the 'self' section to find useful advice on how you can grow as your startup grows.
 
+[How to write a cold email](https://sriramk.com/coldemail)
+- Written by [Sriram Krishnan](https://twitter.com/sriramk) based on VCTwitter bickering over cold emails.
+
 [Crash course in raising your 1st round](https://justjake.substack.com/p/crash-course-in-capital) by [Jake](https://twitter.com/JustJake)
 
 [VC Funding Styles](https://www.notion.so/873d03664a4a486598e43a2c3f924e1d?v=e916ff5f5f304c07839654dcd1c4696f)
