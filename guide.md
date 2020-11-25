@@ -11,12 +11,13 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
   - This serves as a single source of truth on who is working on what and the community can benefit from it to ask for advice/questions/help from certain people that are working or have expertise in certain areas.
   - Are you part of GZM Discord and want to add yourself to this list? Follow the steps below!
 
-1. [Use this link to gain edit access](https://airtable.com/invite/l?inviteId=invhPiaivEA8aVfqd&inviteToken=863d3dd0d721c0cccf6a0707295cfa27ce6b5e9a9e599b3f7f4d8de0693638bd)
+1. [Fill out this form to add your project/product/company to the GZM It's Time To Build Airtable](https://airtable.com/shrmwIaAQdVfWN9gF) 
+- [If you want, you can also use this link to gain edit access but this isn't required](https://airtable.com/invite/l?inviteId=invhPiaivEA8aVfqd&inviteToken=863d3dd0d721c0cccf6a0707295cfa27ce6b5e9a9e599b3f7f4d8de0693638bd)
 2. Once in Airtable, go to the orange 'It's time to build' Airtable button under 'bases shared with me'
 3. On the right side if there is an 'Install an App' popup, click 'x' on the top right side to make it go away
 4. Fill out the details of your product/project
 5. **To enforce accountability** the Airtable is configured to update name of the Editor that updated the Airtable with a timestamp reflecting the latest change at the end of the row
-6. [Verify the public view here](https://airtable.com/shrpyCBZF14uUUDkz)
+6. **[Verify your entry here using this public view](https://airtable.com/shrpyCBZF14uUUDkz)**
 
 ## Founder Resources
 
