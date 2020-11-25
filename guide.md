@@ -29,7 +29,7 @@ Welcome! Here you'll find suggestions on how to get started on a variety of topi
 
 [Crash course in raising your 1st round](https://justjake.substack.com/p/crash-course-in-capital) by [Jake](https://twitter.com/JustJake)
 
-[VC Funding Styles](https://www.notion.so/873d03664a4a486598e43a2c3f924e1d?v=e916ff5f5f304c07839654dcd1c4696f)
+[GZM VC CRM Funding Styles](https://www.notion.so/873d03664a4a486598e43a2c3f924e1d?v=e916ff5f5f304c07839654dcd1c4696f)
 - Look at the check size, type of fund, and notes on VCs.
 
 [Glassdoor for VCs](vcguide.co)
