@@ -93,7 +93,6 @@ This is a collection of resources. To suggest more, DM @pranavsf or @hm in the G
   - https://dribbble.com/
   - https://www.awwwards.com/
   - https://www.behance.net/
-  - https://designcode.io/
   - https://www.canva.com
 ### Frameworks
   - https://reactstrap.github.io/
